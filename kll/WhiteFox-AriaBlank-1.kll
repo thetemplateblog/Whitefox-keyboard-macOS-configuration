@@ -18,6 +18,7 @@ U"7" : U"F7";
 U"8" : U"F8";
 U"9" : U"F9";
 U"0" : U"F10";
+U"BACKSPACE" : flashMode();
 U"Q" : CONS"MUTE";
 U"W" : CONS"VOLUMEDOWN";
 U"E" : CONS"VOLUMEUP";
