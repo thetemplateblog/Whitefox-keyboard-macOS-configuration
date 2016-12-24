@@ -1,8 +1,8 @@
-# My Whitefox Keyboard Configuration for macOS
+# My Whitefox Keyboard Configuration
 
 This is my configration for [Matt3o's Whitefox keyboard](https://input.club/whitefox) (The True Fox layout).
 
-![macOS compatible configuration for the Whitefox keyboard](https://raw.githubusercontent.com/boyvanamstel/Whitefox-keyboard-macOS-configuration/master/assets/configuration.jpg)
+![macOS compatible configuration for the Whitefox keyboard](https://raw.githubusercontent.com/thetemplateblog/Whitefox-keyboard-macOS-configuration/master/assets/configuration.jpg)
 
 ## Key Features
 
@@ -12,7 +12,7 @@ This is my configration for [Matt3o's Whitefox keyboard](https://input.club/whit
 
 ## Installation
 
-1. [Download a copy of the configuration](https://github.com/boyvanamstel/Whitefox-keyboard-macOS-configuration/archive/master.zip).
+1. [Download a copy of the configuration](https://github.com/thetemplateblog/Whitefox-keyboard-macOS-configuration/archive/master.zip).
 2. [Follow Input Club's guide to install the customized firmware](https://input.club/configurator-setup).
 
 _Note_: The little hole in the bottom of the Whitefox keyboard activates firmware-flashing-mode. No need to take it apart.
@@ -25,6 +25,6 @@ Added a 6/N-KRO switcher on the escape key (when fn is pressed). This resolves a
 
 ## Whitefox Keyboard?
 
-![Whitefox keyboard, full](https://raw.githubusercontent.com/boyvanamstel/Whitefox-keyboard-macOS-configuration/master/assets/whitefox1.jpg)
-![Whitefox keyboard, keys](https://raw.githubusercontent.com/boyvanamstel/Whitefox-keyboard-macOS-configuration/master/assets/whitefox2.jpg)
-![Whitefox keyboard, PCB](https://raw.githubusercontent.com/boyvanamstel/Whitefox-keyboard-macOS-configuration/master/assets/whitefox3.jpg)
+![Whitefox keyboard, full](https://raw.githubusercontent.com/thetemplateblog/Whitefox-keyboard-macOS-configuration/master/assets/whitefox1.jpg)
+![Whitefox keyboard, keys](https://raw.githubusercontent.com/thetemplateblog/Whitefox-keyboard-macOS-configuration/master/assets/whitefox2.jpg)
+![Whitefox keyboard, PCB](https://raw.githubusercontent.com/thetemplateblog/Whitefox-keyboard-macOS-configuration/master/assets/whitefox3.jpg)

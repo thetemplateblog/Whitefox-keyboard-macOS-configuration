@@ -1,7 +1,7 @@
 {
     "header": {
         "Name": "WhiteFox",
-        "Layout": "TrueFoxBlank",
+        "Layout": "AriaBlank",
         "Base": "AllBlank",
         "Version": "0.2",
         "Author": "HaaTa (Jacob Alexander) 2015",
@@ -207,10 +207,6 @@
                 "0": {
                     "key": "MINUS",
                     "label": "-"
-                },
-                "1": {
-                    "key": "F11",
-                    "label": "F11"
                 }
             }
         },
@@ -224,44 +220,19 @@
                 "0": {
                     "key": "EQUAL",
                     "label": "="
-                },
-                "1": {
-                    "key": "F12",
-                    "label": "F12"
-                }
-            }
-        },
-        {
-            "code": "0x0D",
-            "x": 62,
-            "y": 5,
-            "w": 4,
-            "h": 4,
-            "layers": {
-                "0": {
-                    "key": "BACKSLASH",
-                    "label": "\\"
-                },
-                "1": {
-                    "key": "HOME",
-                    "label": "HOME"
                 }
             }
         },
         {
             "code": "0x0E",
-            "x": 66,
+            "x": 62,
             "y": 5,
-            "w": 4,
+            "w": 8,
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "BACKTICK",
-                    "label": "`"
-                },
-                "1": {
-                    "key": "END",
-                    "label": "END"
+                    "key": "BACKSPACE",
+                    "label": "BKSP"
                 }
             }
         },
@@ -273,8 +244,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "FUN1",
-                    "label": "\u01921"
+                    "key": "BACKTICK",
+                    "label": "`"
                 }
             }
         },
@@ -301,6 +272,10 @@
                 "0": {
                     "key": "Q",
                     "label": "Q"
+                },
+                "1": {
+                    "key": "CONS:MUTE",
+                    "label": "MUTE"
                 }
             }
         },
@@ -314,6 +289,10 @@
                 "0": {
                     "key": "W",
                     "label": "W"
+                },
+                "1": {
+                    "key": "CONS:VOLUMEDOWN",
+                    "label": "VOL-"
                 }
             }
         },
@@ -327,6 +306,10 @@
                 "0": {
                     "key": "E",
                     "label": "E"
+                },
+                "1": {
+                    "key": "CONS:VOLUMEUP",
+                    "label": "VOL+"
                 }
             }
         },
@@ -431,10 +414,6 @@
                 "0": {
                     "key": "LBRACE",
                     "label": "["
-                },
-                "1": {
-                    "key": "#:ledControl( 3, 15, 0 )",
-                    "label": "LED-"
                 }
             }
         },
@@ -448,10 +427,6 @@
                 "0": {
                     "key": "RBRACE",
                     "label": "]"
-                },
-                "1": {
-                    "key": "#:ledControl( 4, 15, 0 )",
-                    "label": "LED+"
                 }
             }
         },
@@ -463,12 +438,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "BACKSPACE",
-                    "label": "BKSP"
-                },
-                "1": {
-                    "key": "#:ledControl( 5, 0, 0 )",
-                    "label": "LED OFF"
+                    "key": "BACKSLASH",
+                    "label": "\\"
                 }
             }
         },
@@ -482,10 +453,6 @@
                 "0": {
                     "key": "DELETE",
                     "label": "DEL"
-                },
-                "1": {
-                    "key": "CONS:MUTE",
-                    "label": "MUTE"
                 }
             }
         },
@@ -670,8 +637,8 @@
                     "label": "PGUP"
                 },
                 "1": {
-                    "key": "CONS:VOLUMEUP",
-                    "label": "VOL+"
+                    "key": "HOME",
+                    "label": "HOME"
                 }
             }
         },
@@ -698,6 +665,10 @@
                 "0": {
                     "key": "Z",
                     "label": "Z"
+                },
+                "1": {
+                    "key": "#:ledControl( 5, 0, 0 )",
+                    "label": "LED OFF"
                 }
             }
         },
@@ -711,6 +682,10 @@
                 "0": {
                     "key": "X",
                     "label": "X"
+                },
+                "1": {
+                    "key": "#:ledControl( 3, 15, 0 )",
+                    "label": "LED-"
                 }
             }
         },
@@ -724,6 +699,10 @@
                 "0": {
                     "key": "C",
                     "label": "C"
+                },
+                "1": {
+                    "key": "#:ledControl( 4, 15, 0 )",
+                    "label": "LED+"
                 }
             }
         },
@@ -841,10 +820,6 @@
                 "0": {
                     "key": "UP",
                     "label": "\u2191"
-                },
-                "1": {
-                    "key": "CONS:EJECT",
-                    "label": "EJECT"
                 }
             }
         },
@@ -860,8 +835,8 @@
                     "label": "PGDN"
                 },
                 "1": {
-                    "key": "CONS:VOLUMEDOWN",
-                    "label": "VOL-"
+                    "key": "END",
+                    "label": "END"
                 }
             }
         },
@@ -886,8 +861,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "LALT",
-                    "label": "LALT"
+                    "key": "FUNCTION1",
+                    "label": "\u01921"
                 }
             }
         },
@@ -899,8 +874,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "LGUI",
-                    "label": "LGUI"
+                    "key": "LALT",
+                    "label": "LALT"
                 }
             }
         },
@@ -925,8 +900,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "RGUI",
-                    "label": "RGUI"
+                    "key": "RALT",
+                    "label": "RALT"
                 }
             }
         },
@@ -938,8 +913,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "RALT",
-                    "label": "RALT"
+                    "key": "RCTRL",
+                    "label": "RCTRL"
                 }
             }
         },
@@ -953,10 +928,6 @@
                 "0": {
                     "key": "LEFT",
                     "label": "\u2190"
-                },
-                "1": {
-                    "key": "CONS:SCANPREVIOUSTRACK",
-                    "label": "PREV"
                 }
             }
         },
@@ -970,10 +941,6 @@
                 "0": {
                     "key": "DOWN",
                     "label": "\u2193"
-                },
-                "1": {
-                    "key": "CONS:PAUSEPLAY",
-                    "label": "PL\/PS"
                 }
             }
         },
@@ -987,10 +954,6 @@
                 "0": {
                     "key": "RIGHT",
                     "label": "\u2192"
-                },
-                "1": {
-                    "key": "CONS:SCANNEXTTRACK",
-                    "label": "NEXT"
                 }
             }
         }
