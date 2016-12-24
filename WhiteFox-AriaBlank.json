@@ -820,6 +820,10 @@
                 "0": {
                     "key": "UP",
                     "label": "\u2191"
+                },
+                "1": {
+                    "key": "CONS:EJECT",
+                    "label": "EJECT"
                 }
             }
         },
@@ -928,6 +932,10 @@
                 "0": {
                     "key": "LEFT",
                     "label": "\u2190"
+                },
+                "1": {
+                    "key": "CONS:SCANPREVIOUSTRACK",
+                    "label": "PREV"
                 }
             }
         },
@@ -941,6 +949,10 @@
                 "0": {
                     "key": "DOWN",
                     "label": "\u2193"
+                },
+                "1": {
+                    "key": "CONS:PAUSEPLAY",
+                    "label": "PL\/PS"
                 }
             }
         },
@@ -954,6 +966,10 @@
                 "0": {
                     "key": "RIGHT",
                     "label": "\u2192"
+                },
+                "1": {
+                    "key": "CONS:SCANNEXTTRACK",
+                    "label": "NEXT"
                 }
             }
         }

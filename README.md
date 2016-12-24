@@ -1,6 +1,6 @@
 # My Whitefox Keyboard Configuration
 
-This is my configration for [Matt3o's Whitefox keyboard](https://input.club/whitefox) (The True Fox layout).
+This is my configration for [Matt3o's Whitefox keyboard](https://input.club/whitefox) (The Aria layout).
 
 ![macOS compatible configuration for the Whitefox keyboard](https://raw.githubusercontent.com/thetemplateblog/Whitefox-keyboard-macOS-configuration/master/assets/configuration.jpg)
 

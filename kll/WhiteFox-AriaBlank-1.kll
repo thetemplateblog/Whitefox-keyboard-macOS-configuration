@@ -25,5 +25,9 @@ U"PAGEUP" : U"HOME";
 U"Z" : ledControl( 5, 0, 0 );
 U"X" : ledControl( 3, 15, 0 );
 U"C" : ledControl( 4, 15, 0 );
+U"UP" : CONS"EJECT";
 U"PAGEDOWN" : U"END";
+U"LEFT" : CONS"SCANPREVIOUSTRACK";
+U"DOWN" : CONS"PAUSEPLAY";
+U"RIGHT" : CONS"SCANNEXTTRACK";
 
