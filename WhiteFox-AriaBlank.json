@@ -207,6 +207,10 @@
                 "0": {
                     "key": "MINUS",
                     "label": "-"
+                },
+                "1": {
+                    "key": "#:ledControl( 3, 15, 0 )",
+                    "label": "LED-"
                 }
             }
         },
@@ -220,6 +224,10 @@
                 "0": {
                     "key": "EQUAL",
                     "label": "="
+                },
+                "1": {
+                    "key": "#:ledControl( 4, 15, 0 )",
+                    "label": "LED+"
                 }
             }
         },
@@ -250,6 +258,10 @@
                 "0": {
                     "key": "BACKTICK",
                     "label": "`"
+                },
+                "1": {
+                    "key": "PRINTSCREEN",
+                    "label": "PRSC"
                 }
             }
         },
@@ -276,10 +288,6 @@
                 "0": {
                     "key": "Q",
                     "label": "Q"
-                },
-                "1": {
-                    "key": "CONS:MUTE",
-                    "label": "MUTE"
                 }
             }
         },
@@ -293,10 +301,6 @@
                 "0": {
                     "key": "W",
                     "label": "W"
-                },
-                "1": {
-                    "key": "CONS:VOLUMEDOWN",
-                    "label": "VOL-"
                 }
             }
         },
@@ -310,10 +314,6 @@
                 "0": {
                     "key": "E",
                     "label": "E"
-                },
-                "1": {
-                    "key": "CONS:VOLUMEUP",
-                    "label": "VOL+"
                 }
             }
         },
@@ -669,10 +669,6 @@
                 "0": {
                     "key": "Z",
                     "label": "Z"
-                },
-                "1": {
-                    "key": "#:ledControl( 5, 0, 0 )",
-                    "label": "LED OFF"
                 }
             }
         },
@@ -686,10 +682,6 @@
                 "0": {
                     "key": "X",
                     "label": "X"
-                },
-                "1": {
-                    "key": "#:ledControl( 3, 15, 0 )",
-                    "label": "LED-"
                 }
             }
         },
@@ -703,10 +695,6 @@
                 "0": {
                     "key": "C",
                     "label": "C"
-                },
-                "1": {
-                    "key": "#:ledControl( 4, 15, 0 )",
-                    "label": "LED+"
                 }
             }
         },
@@ -759,6 +747,10 @@
                 "0": {
                     "key": "M",
                     "label": "M"
+                },
+                "1": {
+                    "key": "CONS:MUTE",
+                    "label": "MUTE"
                 }
             }
         },
@@ -826,8 +818,8 @@
                     "label": "\u2191"
                 },
                 "1": {
-                    "key": "CONS:EJECT",
-                    "label": "EJECT"
+                    "key": "CONS:VOLUMEUP",
+                    "label": "VOL+"
                 }
             }
         },
@@ -955,8 +947,8 @@
                     "label": "\u2193"
                 },
                 "1": {
-                    "key": "CONS:PAUSEPLAY",
-                    "label": "PL\/PS"
+                    "key": "CONS:VOLUMEDOWN",
+                    "label": "VOL-"
                 }
             }
         },
