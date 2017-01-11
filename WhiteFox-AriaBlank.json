@@ -876,6 +876,10 @@
                 "0": {
                     "key": "LALT",
                     "label": "LALT"
+                },
+                "1": {
+                    "key": "LGUI",
+                    "label": "LGUI"
                 }
             }
         },
