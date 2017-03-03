@@ -22,6 +22,7 @@ U"MINUS" : ledControl( 3, 15, 0 );
 U"EQUAL" : ledControl( 4, 15, 0 );
 U"BACKSPACE" : flashMode();
 U"BACKTICK" : U"PRINTSCREEN";
+U"I" : U"INSERT";
 U"PAGEUP" : U"HOME";
 U"M" : CONS"MUTE";
 U"UP" : CONS"VOLUMEUP";

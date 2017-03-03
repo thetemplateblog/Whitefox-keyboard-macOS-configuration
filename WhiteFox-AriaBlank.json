@@ -379,6 +379,10 @@
                 "0": {
                     "key": "I",
                     "label": "I"
+                },
+                "1": {
+                    "key": "INSERT",
+                    "label": "INS"
                 }
             }
         },
